@@ -37,5 +37,5 @@ E então coloque para rodar a aplicação:
 ```
 $ ionic serve
 ```
-Então espere que o seu navegador padrão vai abri o link da sua aplicação:
-* (localhost:8100)
+Então espere que o seu navegador padrão vai abrir o link da sua aplicação:
+* [localhost](localhost:8100)
