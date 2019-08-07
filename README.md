@@ -28,7 +28,7 @@ $ npm install -g ionic cordova
 Após isso só digitar:
 
 ```
-$ git clone https://github.com/EnosGomes/rede-social-ionic.git
+$ git clone https://github.com/EnosGomes/watch-movie-ionic.git
 $ cd rede-social-ionic
 $ npm install
 ```
